@@ -143,9 +143,19 @@ Action이 정상 실행되었다면, 본인 백준 아이디 폴더 내부에 �
 
 
 ## 8. fork 된 레포지터리와 메인 레포를 동기화하기
-> squash merge로 인해, 공용 스터디 레포의 커밋 히스토리와, 현재 본인의 레포간 동기화가 제대로 되어었지 않을 겁니다!
-> 그래서 sync_fork 클릭 후 discard commit 을 선택해 주세요!
-<img width="723" height="151" alt="image" src="https://github.com/user-attachments/assets/be7ca0bb-74d3-4131-8279-216e05f76f3f" />
+- squash merge로 인해, 공용 스터디 레포의 커밋 히스토리와, 현재 본인의 레포간 동기화가 제대로 되어었지 않을 겁니다!
+- 그래서 sync_fork 클릭 후 discard commit 을 선택해 주세요!
+
+### discard commit 으로 동기화(동기화 진행 없이 PR을 보내면 기존 커밋 내역도 PR에 같이 들어갑니다)
+<img width="1840" height="858" alt="image" src="https://github.com/user-attachments/assets/5fa6dd12-f1fb-4c49-bfd0-be905ecb43dc" />
+
+### 동기화 완료 
+<img width="923" height="218" alt="image" src="https://github.com/user-attachments/assets/42e0cef1-cfd9-4a50-a40d-94256e4cc787" />
+
+
+
+
+
 
 
 
