@@ -4,13 +4,11 @@
 
 <!-- WEEKLY_DASHBOARD_START -->
 
-📅 기준: 2026-02-09 (월요일 00:00 KST)
+📅 기준: 2026-02-16 (월요일 00:00 KST)
 
 | Member | Count | Status |
 |--------|-------|--------|
-| FaceWithNull | 23 | ✅ |
-| LYoooJ | 7 | ✅ |
-| tomchaccom | 7 | ✅ |
+| - | 0 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
 
 
