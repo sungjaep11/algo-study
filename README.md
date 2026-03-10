@@ -13,7 +13,7 @@
 | alicebsy | 1 | ❌ |
 | onff02 | 3 | ❌ |
 | orca-svg | 3 | ❌ |
-| sungjaep11 | 1 | ❌ |
+| sungjaep11 | 2 | ❌ |
 | tomchaccom | 5 | ✅ |
 <!-- WEEKLY_DASHBOARD_END -->
 
