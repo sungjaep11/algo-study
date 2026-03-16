@@ -12,7 +12,7 @@
 | Nul0luN | 1 | ❌ |
 | haeunjeon0410 | 2 | ❌ |
 | onff02 | 5 | ✅ |
-| sungjaep11 | 2 | ❌ |
+| sungjaep11 | 3 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
 
 
