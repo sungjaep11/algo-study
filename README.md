@@ -11,7 +11,7 @@
 | LYoooJ | 5 | ✅ |
 | Nul0luN | 3 | ❌ |
 | alicebsy | 1 | ❌ |
-| haeunjeon0410 | 1 | ❌ |
+| haeunjeon0410 | 2 | ❌ |
 | sungjaep11 | 1 | ❌ |
 | tomchaccom | 1 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
